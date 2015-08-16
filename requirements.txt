@@ -1,0 +1,5 @@
+RPi.GPIO==0.5.11
+argparse==1.2.1
+lockfile==0.8
+python-daemon==1.5.5
+w1thermsensor==0.2.2
